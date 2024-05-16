@@ -1,3 +1,7 @@
+---
+mermaid: true
+---
+
 # rototo
 
 Here is a simple flow chart in the rototo page : 
