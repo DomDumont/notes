@@ -1,3 +1,7 @@
+---
+title: My notes
+mermaid: true
+---
 
 Putain je découvre ça que maintenant ?  🐼
 
