@@ -18,6 +18,8 @@ Code de rêve
 
 [Lien vers rototo.md](rototo.md)
 
+[Lien vers rototo](rototo)
+
 > This is a quote
 
 Test 
@@ -48,6 +50,8 @@ You can add an image or a code block, too.
 ceci est en **gras** *italique*  ~~barré~~
 
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+it it a color ? `#0969DA`
 
 Here is a simple flow chart:
 
