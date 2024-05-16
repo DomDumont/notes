@@ -1,5 +1,7 @@
+---
 title: coucou
 mermaid: true
+---
 
 
 # COUCOU
