@@ -1,6 +1,6 @@
 ---
-title: My notes
 mermaid: true
+title: rototo title is the best
 ---
 
 Putain je découvre ça que maintenant ?  🐼
