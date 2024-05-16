@@ -1,6 +1,4 @@
----
-mermaid: true
----
+
 
 # rototo
 
