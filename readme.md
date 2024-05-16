@@ -17,7 +17,7 @@ Code de rêve
 > This is a quote
 
 
-- [ ] Tache
+- [X] Tache
 - [ ] Tache
 - [ ] Tache
 
