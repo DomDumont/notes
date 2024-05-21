@@ -1,7 +1,4 @@
----
-mermaid: true
-title: rototo title is the best
----
+
 
 # rototo
 
